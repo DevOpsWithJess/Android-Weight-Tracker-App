@@ -5,8 +5,6 @@
 
 This repository contains the Project Three mobile application and portfolio artifact for CS 360 Mobile Architecture and Programming. The app was developed using Android Studio and demonstrates user-centered mobile design, structured app development, and practical Android programming concepts.
 
-## Module Eight Journal Reflection
-
 ### App Requirements and Goals
 The goal of this project was to design and develop a functional Android mobile application using user-centered design principles. The app was created to meet user needs through a clear interface, intuitive navigation, and responsible handling of user data and permissions. Project Three built on the UI designs created earlier in the course and required translating those designs into a working application.
 
