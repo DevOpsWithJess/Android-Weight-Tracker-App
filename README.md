@@ -18,7 +18,7 @@ The application was developed in Android Studio and highlights practical mobile 
 
 ## Application Screenshots
 
-![WeightTrack Lite App](WeightTrack%20Lite%20ScreenShots.png)
+![WeightTrack Lite App](ScreenShots.png)
 
 ## Key Features
 
