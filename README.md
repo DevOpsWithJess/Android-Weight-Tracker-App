@@ -68,14 +68,21 @@ Gradle Build System
 ---
 
 ## Project Structure
-... 
-app/
-├── java/
-│ └── application source code
-├── res/
-│ └── layout files and UI resources
-└── AndroidManifest.xml
-... 
+```
+Android-Weight-Tracker-App
+│
+├── Weight_Track_Lite
+│ ├── app/
+│ │ ├── java/ # Application source code
+│ │ ├── res/ # Layout files and UI resources
+│ │ └── AndroidManifest.xml
+│ │
+│ ├── build.gradle
+│ ├── settings.gradle
+│ └── gradle/
+│
+└── README.md
+``` 
 
 
 The application follows a modular Android architecture separating UI components, logic, and data storage.
